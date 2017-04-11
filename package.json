@@ -1,0 +1,26 @@
+{
+  "name": "just-another-todo",
+  "version": "1.0.0",
+  "description": "Just another todo app using MEVN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keribend/just-another-todo.git"
+  },
+  "author": "keribend",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keribend/just-another-todo/issues"
+  },
+  "homepage": "https://github.com/keribend/just-another-todo#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "^4.9.4",
+    "morgan": "^1.8.1"
+  }
+}
