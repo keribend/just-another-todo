@@ -2,7 +2,7 @@
   "name": "just-another-todo",
   "version": "1.0.0",
   "description": "Just another todo app using MEVN",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
